@@ -12,4 +12,4 @@
 ### Django
 - [240726_fri](https://github.com/hyunjuleee/TIL/blob/ca2dcb9d08aca832d129b9f3e81d691cbc143a21/Django/240726_fri.md)
 - [240729_mon](https://github.com/hyunjuleee/TIL/blob/328348a51ad2708266356b059b77ba36ffd353dc/Django/240729_mon.md)
-- [240801_wed]()
+- [240801_wed](https://github.com/hyunjuleee/TIL/blob/45010a0a3cf1c9d1b55592d574c83dcb5a6693e2/Django/240801_wed.md)
